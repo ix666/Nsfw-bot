@@ -1,0 +1,12 @@
+{
+  "prefix": "%",
+  "token": "your token",
+  "owners": ["your id"],
+  "footer": "by ix",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}
